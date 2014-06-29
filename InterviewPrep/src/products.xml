@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE products SYSTEM "products.dtd">
+<?xml-stylesheet type="text/xsl" href="products.xsl">
+<Products>
+<books>
+	<book>
+		<name>The World is Flat</name>
+		<author>Thomas Friedman</author>
+		<price>$6.59</price>
+	</book>
+	<book>
+		<name>The Science Delusion</name>
+		<author>Rupert Shedrake</author>
+		<price>$16.50</price>
+	</book>
+	<book>
+		<name>The Fingerprints of the Gods</name>
+		<author>Graham Hancock</author>
+		<price>$19.90</price>
+	</book>
+</books>
+	<CDs>
+		<CD>
+			<album>Division Bell</album>
+			<artist>Pink Floyd</artist>
+			<price>$5.90</price>
+		</CD>
+		<CD>
+			<album>Fields of Gold</album>
+			<artist>Sting</artist>
+			<price>$3.90</price>
+		</CD>
+		<CD>
+			<album>Physical Graffiti</album>
+			<artist>Led Zeppelin</artist>
+			<price>$6.90</price>
+		</CD>
+	</CDs>
+</Products>
