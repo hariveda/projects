@@ -25,23 +25,8 @@ public class SpringDemo {
 		// EmployeeDetails employee = new EmployeeDetails();
 		// employee.setEmployeeName("Hari");
 		// employee.setJoiningDate(new Date());
-		// employee.setEmployeeAddress("14J, Vintage Woods, Lake Forest, CA");
-
-		// UserDetails user = new UserDetails();
-		// user.setUserName("Angel");
-		// Address homeAddress = new Address();
-		// Address officeAddress = new Address();
-		// Vehicle vehicle = new Vehicle();
-		// vehicle.setVehicleName("Car");
-		// Vehicle vehicle1 = new Vehicle();
-		// vehicle1.setVehicleName("Jeep");
-		// homeAddress.setCity("Lake Forest");
-		// homeAddress.setStreet("25456, Villa Real");
-		// homeAddress.setState("CA");
-		// homeAddress.setPincode("92630");
-		//
 		// officeAddress.setCity("Irvine");
-		// officeAddress.setStreet("48, Discovery");
+		// officeAddress.setStreet("4, Discovery");
 		// officeAddress.setState("CA");
 		// officeAddress.setPincode("92618");
 		//
@@ -57,26 +42,14 @@ public class SpringDemo {
 		// Vehicle vehicle3 = new Vehicle();
 		// vehicle3.setVehicleName("Limo");
 		// Address homeAddress1 = new Address();
-		// homeAddress1.setCity("Lake Forest");
-		// homeAddress1.setStreet("25456, Villa Real");
+		// homeAddress1.setCity("Irvine");
+		// homeAddress1.setStreet("123, Oak Glen");
 		// homeAddress1.setState("CA");
 		// homeAddress1.setPincode("92630");
 		// user1.setHomeAddress(homeAddress1);
 		// user1.setOfficeAddress(officeAddress);
 		// user1.getVehicleColl().add(vehicle2);
 		// user1.getVehicleColl().add(vehicle3);
-		//
-		// UserDetails user2 = new UserDetails();
-		// user2.setUserName("Vivien");
-		// Address homeAddress2 = new Address();
-		// homeAddress2.setCity("Lake Forest");
-		// homeAddress2.setStreet("25456, Villa Real");
-		// homeAddress2.setState("CA");
-		// homeAddress2.setPincode("92630");
-		// user2.setHomeAddress(homeAddress2);
-		// user2.setOfficeAddress(officeAddress);
-		// user2.getVehicleColl().add(vehicle1);
-		// user2.getVehicleColl().add(vehicle3);
 
 		// vehicle.getUserColl().add(user);
 		// vehicle.getUserColl().add(user1);
@@ -92,13 +65,13 @@ public class SpringDemo {
 		// Address homeAddress = new Address();
 		// Address officeAddress = new Address();
 		//
-		// homeAddress.setCity("Lake Forest");
-		// homeAddress.setStreet("25457, Villa Real");
+		// homeAddress.setCity("Irvine");
+		// homeAddress.setStreet("123, Oak Glenn");
 		// homeAddress.setState("CA");
 		// homeAddress.setPincode("92630");
 		//
 		// officeAddress.setCity("Irvine");
-		// officeAddress.setStreet("48, Discovery");
+		// officeAddress.setStreet("4, Discovery");
 		// officeAddress.setState("CA");
 		// officeAddress.setPincode("92618");
 		//
